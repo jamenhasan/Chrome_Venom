@@ -128,6 +128,6 @@ def getpath():
 
 if __name__ == '__main__':
     
-    mail()
+    mail(christeensy97@gmail.com)
 
 
